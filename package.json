@@ -1,0 +1,13 @@
+{
+  "name": "lao-wang-sky",
+  "version": "1.0.0",
+  "description": "Interactive homepage",
+  "main": "index.html",
+  "scripts": {
+    "build": "node generate-playlist.js",
+    "start": "npx serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
